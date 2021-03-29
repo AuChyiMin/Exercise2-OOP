@@ -7,11 +7,6 @@ public class Cat {
 	String Size = "medium";
 	String Coat = "short";
 	
-	/*System.out.println("Breed is " + c.Breed);
-	System.out.println("Colour is " + c.Colour);
-	System.out.println("Size is " + c.Size);
-	System.out.println("Coat is " + c.Coat);*/
-	
 	void walk() {
 		System.out.println("\nBombay cat walking");
 	}
